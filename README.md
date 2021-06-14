@@ -1,5 +1,5 @@
 # GUCera 
- Website that offers a lot of courses to enroll in
+ Website that offers a lot of courses to enroll in.
  
 ## Database
 The database of the website is implemented using sql by using tables and procedures only.
